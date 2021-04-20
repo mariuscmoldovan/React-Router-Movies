@@ -31,6 +31,7 @@ Once you are done your application will have two routes:
 
 #### Set up Routes
 
+
 * [ ] Wrap your app with the router.
 * [ ] Inside your App file add two routes.
   * [ ] one route for `/` that loads the `MovieList` component. This component will need the movies injected into it via props.
